@@ -2,6 +2,9 @@ h1 {
 	text-align: right;
 	font-family: 'Rancho', cursive;
 }
+.right {
+	text-align: right;
+}
 p {
 	font-family: 'Acme', sans-serif;
 	font-size: 20px;
