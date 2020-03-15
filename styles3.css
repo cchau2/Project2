@@ -1,13 +1,15 @@
-div.container {
+div. container {
 	 margin: 0 auto 0;
  }
 table, tr, td {
 	border-collapse:collapse;
 	border:solid 1px #000000;
+	margin: 0 auto 0;
 }
 td {
-	width:100px;
-	height:80px;	
+	font-family: font-family: 'Just Another Hand', cursive;
+	width:200px;
+	height:150px;	
 }
 table {
 	margin: auto;
@@ -16,15 +18,32 @@ table {
 	margin-bottom: 1em;
 	vertical-align: middle;
 	text-align: center;
-	background-color: #8dbfeb;
+	background-color: #cafaf8;
+	font-family: 'Just Another Hand', cursive;
 }
-.center {
+body {
+	background-color: #e0ddd5;
+}
+h2 {
 	text-align: center;
+	font-family: 'Acme', cursive;
 }
-.font {
-	font-family: 'Acme', sans-serif;
+h3 {
 	text-align: center;
-}
-.font2 {
 	font-family: 'Rancho', cursive;
+	font-size: 25px;
+}
+p {
+	text-align: center;
+	font-family: 'Acme', cursive;
+	font-size: 18px;
+}	
+li {
+	font-family: 'Bebas Neue', cursive;
+}
+image {
+	text-align: center;
+}
+. center {
+	text-align: center;
 }

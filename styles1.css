@@ -1,14 +1,21 @@
 h1 {
-	text-align: center;
-	font-family: 'Acme', sans-serif;
-}
-.left {
 	text-align: left;
-}
-h3 {
-	background-color: #b0e4f5;
 	font-family: 'Rancho', cursive;
 }
-h2, p {
+. left {
+	text-align: left;
+}
+p {
 	font-family: 'Acme', sans-serif;
+	font-size: 20px;
+}
+h2 {
+	background-color: #c8faf5;
+	font-family: 'Rancho', cursive;
+}
+li {
+	font-family: 'Bebas Neue', cursive;
+}
+body {
+	background-color: #e0ddd5;
 }
