@@ -1,6 +1,9 @@
 h1 {
-	text-align: left;
+	text-align: center;
 	font-family: 'Rancho', cursive;
+}
+.right {
+	text-align: right;
 }
 p {
 	font-family: 'Acme', sans-serif;
