@@ -1,13 +1,10 @@
-div. container {
-	 margin: 0 auto 0;
- }
 table, tr, td {
 	border-collapse:collapse;
 	border:solid 1px #000000;
 	margin: 0 auto 0;
 }
 td {
-	font-family: font-family: 'Just Another Hand', cursive;
+	font-family: 'Just Another Hand', cursive;
 	width:200px;
 	height:150px;	
 }
@@ -40,10 +37,4 @@ p {
 }	
 li {
 	font-family: 'Bebas Neue', cursive;
-}
-image {
-	text-align: center;
-}
-. center {
-	text-align: center;
 }
