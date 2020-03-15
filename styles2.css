@@ -1,0 +1,29 @@
+table, tr, td {
+	border-collapse:collapse;
+	border:solid 1px #000000;
+	margin: auto;
+}
+td {
+	width:300px;
+	height:200px;	
+}
+div.container {
+	margin: 0 auto 0;
+}
+table {
+	background-color: #daebf7;
+}
+.center {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	font-family: 'Acme', cursive;
+	background-color: #8dbfeb;
+	border-radius: 50%;
+	width: 500px;
+	margin: 30px auto;
+}
+body{
+	background-color: #e3dee3;
+}
