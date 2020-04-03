@@ -75,7 +75,7 @@ object {
 	height: auto;
 }
 
-ul.video {
+div.video {
 	border-radius:1em;
 	padding: 1em;
 	margin: 0 auto;
@@ -84,7 +84,8 @@ ul.video {
 	border: .625em outset #dddddd;
 	border-color: silver;
 	margin-top: 40px;
-	margin-right: 485px;
+	margin-right: 520px;
+	margin-bottom: 20px;
 }
 
 div#jamaica h2 {
@@ -98,30 +99,42 @@ div#jamaica h2 {
 
 div#jamaica p {
 	font-size: 1.1em;
-	font-weight: 550;
+	font-weight: bold;
 	text-align: center;
 }
 
 div.row1 {
 	font-size: 1.1em;
-	font-weight: 550;
+	font-weight: bold;
 	text-align: center;
-	margin-left: -50px;
+	margin-left: -25px;
 	margin-top: -30px;
 }
 
 div.row2 {
 	font-size: 1.1em;
-	font-weight: 550;
+	font-weight: bold;
 	text-align: center;
+	margin-left: -35px;
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+div.row3 {
+	font-size: 1.1em;
+	font-weight: bold;
+	text-align: center;
+	text-indent: 5em;
 	margin-left: -70px;
 	margin-top: 40px;
 	margin-bottom: 50px;
 }
 
-div.row3 p {
+div.row4 p {
 	color: #1237db;
-	font-size: 0.70em;
+	font-size: 0.75em;
+	font-weight: bold;
+	text-align: center;
 }
 
 #jamaica {
